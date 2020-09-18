@@ -14,8 +14,8 @@
 
 ## Pomocnicze foteczki
 
-* help1
-!<img src="https://github.com/Ko4s/goCourseIntruction/blob/master/images/wyszkiwanie.png" width="50%">
+* help1 
+<img src="https://github.com/Ko4s/goCourseIntruction/blob/master/images/wyszkiwanie.png" width="50%">
 
 * help2
 <img src="https://github.com/Ko4s/goCourseIntruction/blob/master/images/checkboxy.png" width="50%">
