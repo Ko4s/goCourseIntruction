@@ -26,5 +26,5 @@
 6. &Więcej
 
 ## Linki pomocnicze
-1. [Intrukcja Instalacji](https://github.com/Ko4s/goCourseIntruction/blob/master/go_install/instalation_go.md)
+1. [Intrukcja Instalacji Go](https://github.com/Ko4s/goCourseIntruction/blob/master/go_install/instalation_go.md)
 2. [Repozytorium z przykładami](https://github.com/Ko4s/goCourse/tree/master)
