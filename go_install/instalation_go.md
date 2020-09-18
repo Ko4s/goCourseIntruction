@@ -15,7 +15,7 @@
 ## Pomocnicze foteczki
 
 * help1
-![help1](https://github.com/Ko4s/goCourseIntruction/blob/master/images/wyszkiwanie.png)
+![help1](https://github.com/Ko4s/goCourseIntruction/blob/master/images/wyszkiwanie.png?s=300)
 
 * help2
-![help2](https://github.com/Ko4s/goCourseIntruction/blob/master/images/checkboxy.png)
+![help2](https://github.com/Ko4s/goCourseIntruction/blob/master/images/checkboxy.png?s=300)
