@@ -4,7 +4,7 @@
 
 1. Podstawy Go :
     * Pakiety, zmienne i funkcje
-    * instrukcje kontroli programu:
+    * instrukcje sterujące:
         * for, if, else, switch, defer
     * kolejny typy:
         * struct, slice, map
