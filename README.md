@@ -28,3 +28,6 @@
 ## Linki pomocnicze
 1. [Intrukcja Instalacji Go](https://github.com/Ko4s/goCourseIntruction/blob/master/go_install/instalation_go.md)
 2. [Repozytorium z przykładami](https://github.com/Ko4s/goCourse/tree/master)
+3. [Repo grupy sb12](https://github.com/Ko4s/goCourse/tree/sb12)
+4. [Repo grupy sb14](https://github.com/Ko4s/goCourse/tree/sb14)
+5. [Zadania domowe] 
