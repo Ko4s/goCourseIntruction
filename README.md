@@ -30,4 +30,4 @@
 2. [Repozytorium z przykładami](https://github.com/Ko4s/goCourse/tree/master)
 3. [Repo grupy sb12](https://github.com/Ko4s/goCourse/tree/sb12)
 4. [Repo grupy sb14](https://github.com/Ko4s/goCourse/tree/sb14)
-5. [Zadania domowe] 
+5. [Zadania domowe](https://github.com/Ko4s/goCourseIntruction/tree/master/zadania_domowe)
