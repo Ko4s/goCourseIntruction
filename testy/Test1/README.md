@@ -18,10 +18,10 @@ Moduł z zadaniami powinien wyglądać mniej więcej tak:
 ```bash
 |__test
     |____go.mod
-    |____Mandatory
+    |____mandatory
         |____zadanie1
         |____zadanie2
-    |____Optional
+    |____optional
         |____zadanie1
         |____zadanie2
     |____main.go
