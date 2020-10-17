@@ -18,7 +18,7 @@ Napisz funkcję
 ```go 
 func is18(age int) bool
 ```
-Funkcja ma zwrócić prawdę jeżeli age >= 17 false w przeciwnym wypadku
+Funkcja ma zwrócić prawdę jeżeli age >= 18 false w przeciwnym wypadku
 
 ## Zadanie 4
 Napisz funkcję
