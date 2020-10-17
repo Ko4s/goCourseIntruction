@@ -31,7 +31,9 @@ Moduł z zadaniami powinien wyglądać mniej więcej tak:
 Test należy przesłać do 23.10.2020
 
 # Dodatkowe 
-W trakcie zajęć dnia 17.10.2020, każda osoba będzie mogła zadać 3 pytania. Oczywiście pytania typu "jak to zrobić odpadają"
+* W trakcie zajęć dnia 17.10.2020, każda osoba będzie mogła zadać 3 pytania. Oczywiście pytania typu "jak to zrobić odpadają"
+* Oprócz tego czy program działa, zrobię wam code review rozwiązań
+* Nie będzie *globalnego* winiku testu, przeslę wam moją 'opinie' privem
 
 Miłej zabawy :)
 
