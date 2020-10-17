@@ -7,7 +7,7 @@ Test będzie składał się z trzech części
 Sekcja **Mandatory** ma za zadanie sprawdzić wasze podstawy z **Go** i ogólnie programowania.
 Osoby którym nie uda się skończyć tej sekcji powinny umówić się na zajęcia odróbkowe.
 
-Sekcja **Optional**  będzie się składała z kilku zadań o różnym poziomie trudności, jej zadaniem jest głębsze ocenienie waszych umiejętności. 
+Sekcja **Optional**  będzie składała się z kilku zadań o różnym poziomie trudności, jej zadaniem jest głębsze ocenienie waszych umiejętności. 
 
 # Oddanie testu
 Zadania będzie trzeba  przesłać na repozytorium githuba, i analogicznie link repozytorium do mnie.
