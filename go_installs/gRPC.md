@@ -17,7 +17,7 @@
 ## Oba systemy
 
 * w VSCode doinstaluj paczkę `vscode-proto3`
-* clone repo [link]()
+* clone repo [link](https://github.com/Ko4s/grpc-test-service)
 * odpal komendy z pliku `hello-proto/command.sh`
 * odpal w jednym terminalu program z folderu `hello_server`
 * odpal w kolejnym oknie terminalu program z folderu `hello_client`
