@@ -8,7 +8,7 @@
 * kliknij tutaj [link](https://github.com/google/protobuf/releases)
 * znajdź wersje z zipem pod windowsa np. `protoc-3.13.0-win64.zip` i pobierz
 * wypakuj wszystko do `C:\proto3`
-* W środku  folderu  *proto3* powinny wkleić się foldery **bin** i **include**
+* W środku  folderu  *proto3* powinny znajdować się foldery **bin** i **include**
 * Otwórz zmienne środowiskowe 
 * Znajdź w zmiennych systemowych *Path* i dodaj tam `C:\proto3\bin`
 * Odpal konsole i wpisz `protoc` aby zobaczyć czy działa
